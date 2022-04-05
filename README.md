@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine Learning
 ## in this repo was impelement all of this 
 * Linear regression
 * Logistic
